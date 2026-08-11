@@ -1,8 +1,3 @@
-layout: page
-title: "Twine Test"
-permalink: /hellhound
-
-<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
