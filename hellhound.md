@@ -304,7 +304,17 @@ You learned to recognize the signs when one of them was feeling playful, and fou
 
 It might not have been the sort of relationship you imagined, back when you were human, but you have a loving, attentive, and very hot girlfriend, in a manner of speaking, and you get to enjoy a very active sex life.  How much more could you ask for, really?
 
-&#39;&#39;Ending 1: Hellhound Girlfriend&#39;&#39;</tw-passagedata><tw-passagedata pid="26" name="Seven months later" tags="" position="1075,3175" size="100,100">Friday made herself at home in Sable&#39;s den, settling into a comfortable routine with your owner.  If either hellhound remembered the arrangement was supposed to be temporary, they didn&#39;t mention it.
+&#39;&#39;Ending 1: Hellhound Girlfriend&#39;&#39;
+
+
+
+
+
+
+
+[[Restart from the beginning-&gt;Start]]
+
+[[Restart from first choice-&gt;The rest of the world fades away as the entirety of your consciousness drowns in the blissful, overwhelming sensation.]]</tw-passagedata><tw-passagedata pid="26" name="Seven months later" tags="" position="1075,3175" size="100,100">Friday made herself at home in Sable&#39;s den, settling into a comfortable routine with your owner.  If either hellhound remembered the arrangement was supposed to be temporary, they didn&#39;t mention it.
 
 You didn&#39;t have too long to get used to the new status quo, however.  As the weeks went on it became harder and harder to deny the obvious.  The male&#39;s seed took, during your heat - Sable was pregnant.  Over the next following months you gradually swelled up, intimately aware of the litter of pups growing inside you.
 
@@ -324,7 +334,16 @@ Of course, while you were a spectator to most of Sable&#39;s life, you were very
 
 This is your life now.  And this is what your life is going to be for the foreseeable future.  Somehow, the thought doesn&#39;t seem as bad as it used to.
 
-&#39;&#39;Ending 2: Hellhound Mothers&#39;&#39;</tw-passagedata><tw-passagedata pid="28" name="Eventually, she arrives back in the forest" tags="" position="1325,3075" size="100,100">The ground passing beneath you is now fallen leaves and tree roots.  Sable can be fairly stealthy when she wants to, but she&#39;s made no effort to hide her presence, stomping loudly through the dry leaves.  She&#39;s gotten deep into the forest, and while it&#39;s hard to tell from your perspective, you think she might be in the same clearing she met the hellhound in last time.
+&#39;&#39;Ending 2: Hellhound Mothers&#39;&#39;
+
+
+
+
+
+
+[[Restart from the beginning-&gt;Start]]
+
+[[Restart from first choice-&gt;The rest of the world fades away as the entirety of your consciousness drowns in the blissful, overwhelming sensation.]]</tw-passagedata><tw-passagedata pid="28" name="Eventually, she arrives back in the forest" tags="" position="1325,3075" size="100,100">The ground passing beneath you is now fallen leaves and tree roots.  Sable can be fairly stealthy when she wants to, but she&#39;s made no effort to hide her presence, stomping loudly through the dry leaves.  She&#39;s gotten deep into the forest, and while it&#39;s hard to tell from your perspective, you think she might be in the same clearing she met the hellhound in last time.
 
 (text-colour:red)[&quot;You again?  Didn&#39;t you learn your place last time?&quot;]
 
@@ -393,7 +412,16 @@ You&#39;re not quite sure what to call your relationship to them - you&#39;re no
 
 The humans have already issued a warning discouraging hikers from visiting the forest, following reports of dangerous, aggressive wolves in the area.  Your puppies will have the run of the place, until they&#39;re old enough to set out on their own, and claim their own territory.  It&#39;s not up to you what comes after that... but something tells you that this won&#39;t be your last litter of pups.
 
-&#39;&#39;Ending Three: Hellhound Forest&#39;&#39;</tw-passagedata><tw-passagedata pid="31" name="One year later (non-preg)" tags="" position="1500,3425" size="100,100">Sable leaves the house and turns left, tracing a familiar path through the alleys.  You flush slightly with arousal.  It&#39;s a conditioned response, at this point - heading down this path means she&#39;s probably headed over to the forest again.  It could possibly be a coincidence, but you&#39;ve become pretty familiar with Sable&#39;s whims by now, and you&#39;re sure she&#39;s aiming for another rendezvous with the other hellhound.
+&#39;&#39;Ending Three: Hellhound Forest&#39;&#39;
+
+
+
+
+
+
+[[Restart from the beginning-&gt;Start]]
+
+[[Restart from first choice-&gt;The rest of the world fades away as the entirety of your consciousness drowns in the blissful, overwhelming sensation.]]</tw-passagedata><tw-passagedata pid="31" name="One year later (non-preg)" tags="" position="1500,3425" size="100,100">Sable leaves the house and turns left, tracing a familiar path through the alleys.  You flush slightly with arousal.  It&#39;s a conditioned response, at this point - heading down this path means she&#39;s probably headed over to the forest again.  It could possibly be a coincidence, but you&#39;ve become pretty familiar with Sable&#39;s whims by now, and you&#39;re sure she&#39;s aiming for another rendezvous with the other hellhound.
 
 Sure enough, it&#39;s not long until she&#39;s striding through the trees, toward the tucked away corner of the woods where the other hellhound makes his den.
 
@@ -412,7 +440,15 @@ Either way, you&#39;re going to be spending the next couple hours stuffed full o
 You can hardly wait.
 
 &#39;&#39;Ending Four: Hellhound Hatefuck&#39;&#39;
-</tw-passagedata><tw-passagedata pid="32" name="Just how connected are you?" tags="" position="1775,3025" size="100,100">Over the next few days you watch your own thoughts nervously.  You&#39;re pretty sure that you are sharing Sable&#39;s dreams, now that you look back at it.  Are you being influenced in other ways?  Just what sort of connection is there between you?
+
+
+
+
+
+
+[[Restart from the beginning-&gt;Start]]
+
+[[Restart from first choice-&gt;The rest of the world fades away as the entirety of your consciousness drowns in the blissful, overwhelming sensation.]]</tw-passagedata><tw-passagedata pid="32" name="Just how connected are you?" tags="" position="1775,3025" size="100,100">Over the next few days you watch your own thoughts nervously.  You&#39;re pretty sure that you are sharing Sable&#39;s dreams, now that you look back at it.  Are you being influenced in other ways?  Just what sort of connection is there between you?
 
 The answer is: you&#39;re not sure.  You&#39;re certainly very good at guessing what she&#39;s about to say or do, but is that because of some mental connection, her subconscious bleeding into yours?  Or is it just because you&#39;ve been watching her for years?
 
@@ -454,7 +490,17 @@ A part of you (if:$resist is &quot;false&quot;)[idly] wonders if it&#39;s even p
 
 (if:$resist is &quot;true&quot;)[You try to feel angry about it, but can&#39;t quite muster the emotion.  Sable is feeling comfortable and satisfied, and in the afterglow it&#39;s hard not to feel the same.](else:)[Would you even want to go back?  At the moment it&#39;s hard to remember what was so good about being human.  You let the thought drop, and just relax in the moment.  Sable is satisfied and comfortable, which means you are too.]
 
-&#39;&#39;Ending Five: In Sync&#39;&#39;</tw-passagedata><tw-passagedata pid="36" name="Step out of the pants" tags="" position="1475,1050" size="100,100">You try to lift a leg experimentally, but it feels sluggish and distant, like a limb that&#39;s fallen asleep.
+&#39;&#39;Ending Five: In Sync&#39;&#39;
+
+
+
+
+
+
+
+[[Restart from the beginning-&gt;Start]]
+
+[[Restart from first choice-&gt;The rest of the world fades away as the entirety of your consciousness drowns in the blissful, overwhelming sensation.]]</tw-passagedata><tw-passagedata pid="36" name="Step out of the pants" tags="" position="1475,1050" size="100,100">You try to lift a leg experimentally, but it feels sluggish and distant, like a limb that&#39;s fallen asleep.
 
 As you lift your head up to look forward again your neck feels stiff.  It&#39;s shorter than it should be, and as you watch you can feel your head being slowly pulled back towards your torso.  Something else brushes against the top of your head as it retracts, and turning your eyes up you see a stubby tail slowly growing over your head.
 
