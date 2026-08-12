@@ -316,7 +316,7 @@ It might not have been the sort of relationship you imagined, back when you were
 
 [[Restart from first choice-&gt;The rest of the world fades away as the entirety of your consciousness drowns in the blissful, overwhelming sensation.]]</tw-passagedata><tw-passagedata pid="26" name="Seven months later" tags="" position="1075,3175" size="100,100">Friday made herself at home in Sable&#39;s den, settling into a comfortable routine with your owner.  If either hellhound remembered the arrangement was supposed to be temporary, they didn&#39;t mention it.
 
-You didn&#39;t have too long to get used to the new status quo, however.  As the weeks went on it became harder and harder to deny the obvious.  The male&#39;s seed took, during your heat - Sable was pregnant.  Over the next following months you gradually swelled up, intimately aware of the litter of pups growing inside you.
+You didn&#39;t have too long to get used to the new status quo, however.  As the weeks went on it became harder and harder to deny the obvious.  The male&#39;s seed took, during your heat - Sable was pregnant.  Over the following months you gradually swelled up, intimately aware of the litter of pups growing inside you.
 
 Now, seven months in, you felt impossibly full.  You could see the curve of Sable&#39;s pregnant belly, her teats poking slightly through the fur in preparation for the coming children.
 
@@ -389,7 +389,7 @@ She tugs again, this time with more force, and the male&#39;s knot slips free.  
 
 She walks away without looking back.  
 
-But once the other hellhound is out of sight she stops by a large tree.  She turns around, crouches, and lifts her tail, and you feel the familiar sensation of release as she lets out a short stream of piss, marking the tree with her scent.  She repeats the process a couple more times on her way out of the forest, before making her way back to town.
+But once the other hellhound is out of sight she stops by a large tree.  She turns around, crouches, and lifts her tail, and you feel the familiar sensation of release as she lets out a short stream, marking the tree with her scent.  She repeats the process a couple more times on her way out of the forest, before making her way back to town.
 
 You have a feeling it won&#39;t be long until she returns.](else:)[(text-colour:orange)[&quot;Idiot.  Sounds to me like you&#39;re just scared.&quot;]
 
@@ -429,7 +429,7 @@ Sure enough, it&#39;s not long until she&#39;s striding through the trees, towar
 
 Yeah, it&#39;s this again.  They do this at least once a month.  Usually Sable goes out to the forest, but the other hellhound has come into the city occasionally.  There&#39;s a lot of yelling and growling, then they fight, and the winner tops the loser.
 
-(text-colour:orange)[&quot;Hah!  Big talk from a wimp with a tiny dick!&quot;]
+(text-colour:orange)[&quot;Hah!  Big talk from a runt with a tiny dick!&quot;]
 
 Is this how hellhound courtship works?  Or are these two just stupid?  You&#39;re not sure, but you&#39;re dripping with anticipation all the same.  
 
