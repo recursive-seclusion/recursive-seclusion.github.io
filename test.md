@@ -8,7 +8,10 @@
 </head>
 <body>
 <tw-story><noscript><tw-noscript>JavaScript needs to be enabled to play Test.</tw-noscript></noscript></tw-story>
-<tw-storydata name="Test" startnode="1" creator="Twine" creator-version="2.11.1" format="Harlowe" format-version="3.3.9" ifid="38BE53AC-8C49-4F27-9AD5-643D0A6C3A4F" options="" tags="" zoom="1" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css"></style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Untitled Passage" tags="" position="1075,500" size="100,100">This is a test project to see how hosting twine on git works
+<tw-storydata name="Test" startnode="1" creator="Twine" creator-version="2.11.1" format="Harlowe" format-version="3.3.9" ifid="38BE53AC-8C49-4F27-9AD5-643D0A6C3A4F" options="" tags="" zoom="1" hidden><style role="stylesheet" id="twine-user-stylesheet" type="text/twine-css">tw-dialog, .modal-content-box {
+  max-height: 60vh;
+  overflow-y: auto;
+}</style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-passagedata pid="1" name="Untitled Passage" tags="" position="1075,500" size="100,100">This is a test project to see how hosting twine on git works
 
 [[Here&#39;s a link!]]
 
