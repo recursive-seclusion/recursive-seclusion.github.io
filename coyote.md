@@ -794,7 +794,7 @@ After a few long seconds he finally steps away.  Your tail presses flat between 
 
 $vet[&quot;Well Thistle, you&#39;re the picture of health!  Looks like you&#39;re due for a booster shot, but after that you should be good to go.&quot;]
 
-Great(click-replace:&quot;Great&quot;)[IThe vet has you lay down, your front legs lying forward on the table.  He wipes down the fur on your front left leg, and then you look away as he brings up the needle, holding your leg in place with his other hand.
+Great(click-replace:&quot;Great&quot;)[The vet has you lay down, your front legs lying forward on the table.  He wipes down the fur on your front left leg, and then you look away as he brings up the needle, holding your leg in place with his other hand.
 
 It hurts a little, and your leg will probably be sore tomorrow, but it&#39;s over with quickly.
 
@@ -805,8 +805,6 @@ The vet chuckles as you make your way off the table and wriggle back into your s
 $vet[&quot;Here&#39;s that literature I mentioned, it should give your girlfriend an idea what to expect.  Your insurance should cover the visit, just check in with the receptionist on your way out.&quot;]
 
 He hands you a stack of (link-repeat:&quot;papers&quot;)[(dialog: [(display:&quot;Papers&quot;)], &quot;Close&quot;)] stapled together. You tuck it into your satchel and say your farewells.
-
-
 
 [[Estrus, huh]]]]]]]]</tw-passagedata><tw-passagedata pid="104" name="Taste" tags="" position="5325,1075" size="100,100">You can taste the latex gloves he put on for this.  Better than tasting his bare hands, at least.</tw-passagedata><tw-passagedata pid="105" name="Joke" tags="" position="5450,1075" size="100,100">Does that even count as a joke?  Well, he&#39;s probably just trying to lighten the mood, you&#39;re obviously tense.  And to be fair he probably doesn&#39;t get a lot of practice on his bedside manner with his usual patients.</tw-passagedata><tw-passagedata pid="106" name="Good Luck" tags="" position="1025,1450" size="100,100">Your own luck seems to have actually turned, and you were able to avoid any further transformations.  Naturally this just resulted in even more teasing from your friends, despite the fact that //they// all still had opposable thumbs.</tw-passagedata><tw-passagedata pid="107" name="Amy 2" tags="" position="775,1450" size="100,100">Her legs have been replaced with a large snake tail.  She eventually gave up on making the chair work and just coiled up next to the table.</tw-passagedata><tw-passagedata pid="108" name="David 2" tags="" position="650,1450" size="100,100">Her oversized clothes were transformed into a large dress, with multiple layers and rich embroidery, and a slim silver tiara wrapped around her forehead.  She looks like a little princess.</tw-passagedata><tw-passagedata pid="109" name="John 2" tags="" position="525,1450" size="100,100">He&#39;s become a satyr, with furry legs and cloven hooves.  He probably got off the easiest of everyone, although he&#39;ll have to switch exclusively to button up shirts if he doesn&#39;t turn back.</tw-passagedata><tw-passagedata pid="110" name="You" tags="" position="400,1450" size="100,100">Still a coyote.</tw-passagedata><tw-passagedata pid="111" name="Oh no" tags="" position="900,1575" size="100,100">What was it David wished for again?  It was for everyone to return to their &quot;original forms&quot;.  According to your (link-repeat:&quot;character sheet&quot;)[(dialog: [(display:&quot;Character Sheet 2&quot;)], &quot;Close&quot;)], this //is// your original form.  But... that can&#39;t possibly count, can it?
 
@@ -1270,6 +1268,7 @@ From here you can head up front to the [[checkout-&gt;By Checkout]], or go to th
 [(dialog: [(display:&quot;Take Bagel&quot;)], &quot;Close&quot;)]
 (set:$bagel to true)
 (set: $basket to $basket + 1)
+(if:$basket &gt; 7)[(go-to:&quot;full&quot;)
 ]]
 
 (if:$muffin is false and $basket &lt; 8)[
@@ -1277,6 +1276,7 @@ From here you can head up front to the [[checkout-&gt;By Checkout]], or go to th
 [(dialog: [(display:&quot;Take Muffin&quot;)], &quot;Close&quot;)]
 (set:$muffin to true)
 (set: $basket to $basket + 1)
+(if:$basket &gt; 7)[(go-to:&quot;full&quot;)
 ]]</tw-passagedata><tw-passagedata pid="179" name="checkout" tags="" position="4400,2450" size="100,100">You walk up to an open lane and rear up, stretching your neck and tilting your head to lift the (link-repeat:&quot;basket&quot;)[(dialog: [(display:&quot;Unload&quot;)], &quot;Close&quot;)] onto the conveyer belt.
 
 Then you drop down, walk a couple steps down to the register, and stand up again, peering over the counter at the (link-repeat:&quot;cashier&quot;)[(dialog: [(display:&quot;Cashier&quot;)], &quot;Close&quot;)].
