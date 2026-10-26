@@ -25,17 +25,15 @@ tw-dialog img {
   margin: 0 auto;
 }
 
-.character-sheet {
-  width: 100%;
-  overflow-x: auto;
-  -webkit-overflow-scrolling: touch;
-  margin-bottom: 1em;
+tw-dialog table, 
+.macro-dialog table, 
+table {
+    background-color: transparent !important;
+    color: #ffffff !important;
 }
 
-.character-sheet table {
-  width: 100%;
-  border-collapse: collapse;
-  min-width: 3px;
+table tr, table td, table th {
+    color: #ffffff !important;
 }</style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-tag name="startup" color="yellow"></tw-tag><tw-tag name="header" color="blue"></tw-tag><tw-passagedata pid="1" name="Hub" tags="" position="1100,300" size="100,100">&lt;h4&gt;Table of Contents&lt;/h4&gt;
 [[Day 0: Game Night-&gt;Game night start]]
 
