@@ -23,6 +23,19 @@ tw-dialog img {
   height: auto;
   display: block; 
   margin: 0 auto;
+}
+
+.character-sheet {
+  width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  margin-bottom: 1em;
+}
+
+.character-sheet table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 3px;
 }</style><script role="script" id="twine-user-script" type="text/twine-javascript"></script><tw-tag name="startup" color="yellow"></tw-tag><tw-tag name="header" color="blue"></tw-tag><tw-passagedata pid="1" name="Hub" tags="" position="1100,300" size="100,100">&lt;h4&gt;Table of Contents&lt;/h4&gt;
 [[Day 0: Game Night-&gt;Game night start]]
 
@@ -115,7 +128,8 @@ One more weird change to add to the pile.  You&#39;re still hyper conscious of (
 
 The rest of your friends take their turns as you muse over your changes.  (link-repeat:&quot;Amy&quot;)[(dialog: [(display:&quot;Amy&quot;)], &quot;Close&quot;)] lands on a shop and (link-repeat:&quot;John&quot;)[(dialog: [(display:&quot;John&quot;)], &quot;Close&quot;)] on an empty space, getting through their turns without any further changes.  (link-repeat:&quot;David&quot;)[(dialog: [(display:&quot;David&quot;)], &quot;Close&quot;)] hits a toll and can&#39;t pay, although her penalty is fairly minor - her short haircut suddenly unfurls into long braids.
 
-[[Before you know it, it&#39;s your turn again-&gt;Turn 2]]</tw-passagedata><tw-passagedata pid="9" name="Character Sheet" tags="" position="1150,1075" size="100,100">{&lt;table&gt;
+[[Before you know it, it&#39;s your turn again-&gt;Turn 2]]</tw-passagedata><tw-passagedata pid="9" name="Character Sheet" tags="" position="1150,1075" size="100,100">{&lt;div class=&quot;character-sheet&quot;&gt;
+&lt;table&gt;
   &lt;tr&gt;
     &lt;th&gt;&lt;/th&gt;
     &lt;th&gt;Original&lt;/th&gt;
@@ -125,40 +139,41 @@ The rest of your friends take their turns as you muse over your changes.  (link-
   &lt;tr&gt;
   	&lt;td&gt;NAME:&lt;/td&gt;
     &lt;td&gt;Xxxxxx Xxxxxxxx&lt;/td&gt;
-    &lt;td&gt; --&gt;
+    &lt;td&gt; →
     &lt;td&gt;Thistle&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
   	&lt;td&gt;SPECIES:&lt;/td&gt;
     &lt;td&gt;Human&lt;/td&gt;
-    &lt;td&gt; --&gt;
+    &lt;td&gt; →
     &lt;td&gt;Coyote&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
   	&lt;td&gt;SEX:&lt;/td&gt;
     &lt;td&gt;Male&lt;/td&gt;
-    &lt;td&gt; --&gt;
+    &lt;td&gt; →
     &lt;td&gt;Female&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
   	&lt;td&gt;HEIGHT:&lt;/td&gt;
     &lt;td&gt;5&#39; 10&quot;&lt;/td&gt;
-    &lt;td&gt; --&gt;
+    &lt;td&gt; →
     &lt;td&gt;1&#39; 11&quot; (at shoulder)&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
   	&lt;td&gt;WEIGHT:&lt;/td&gt;
     &lt;td&gt;180lb&lt;/td&gt;
-    &lt;td&gt; --&gt;
+    &lt;td&gt; →
     &lt;td&gt;40lb&lt;/td&gt;
   &lt;/tr&gt;
   &lt;tr&gt;
   	&lt;td&gt;FUR:&lt;/td&gt;
     &lt;td&gt;None&lt;/td&gt;
-    &lt;td&gt; --&gt;
+    &lt;td&gt; →
     &lt;td&gt;Fulvous&lt;/td&gt;
   &lt;/tr&gt;
-&lt;/table&gt;}</tw-passagedata><tw-passagedata pid="10" name="Muzzle look" tags="" position="1025,1075" size="100,100">It juts forward so much more than your nose did as a human.  If you want to look down at the game board you have to tilt your whole head downward and peer upward at it.</tw-passagedata><tw-passagedata pid="11" name="Gamesmell" tags="" position="1275,1075" size="100,100">The scents in the room are incredibly vivid - your friends, some snacks, even the traces of your human self left behind on your clothes.  It&#39;s not that they smell stronger than they did before, exactly, it&#39;s just that you can detect them so much more clearly.  It&#39;s like putting on glasses for the first time after a lifetime of blurry vision.  But, for your nose.</tw-passagedata><tw-passagedata pid="12" name="Amy" tags="" position="775,1075" size="100,100">Her hair has become a writhing nest of snakes.  
+&lt;/table&gt;
+&lt;/div&gt;}</tw-passagedata><tw-passagedata pid="10" name="Muzzle look" tags="" position="1025,1075" size="100,100">It juts forward so much more than your nose did as a human.  If you want to look down at the game board you have to tilt your whole head downward and peer upward at it.</tw-passagedata><tw-passagedata pid="11" name="Gamesmell" tags="" position="1275,1075" size="100,100">The scents in the room are incredibly vivid - your friends, some snacks, even the traces of your human self left behind on your clothes.  It&#39;s not that they smell stronger than they did before, exactly, it&#39;s just that you can detect them so much more clearly.  It&#39;s like putting on glasses for the first time after a lifetime of blurry vision.  But, for your nose.</tw-passagedata><tw-passagedata pid="12" name="Amy" tags="" position="775,1075" size="100,100">Her hair has become a writhing nest of snakes.  
 
 Well, writhing might be overstating it, they chilled out pretty quickly.  Honestly they&#39;re kind of cute, though you always liked snakes.  More subtle are her eyes, which are now slitted and reptilian.</tw-passagedata><tw-passagedata pid="13" name="John" tags="" position="525,1075" size="100,100">He&#39;s grown a very impressive set of antlers.  You have no idea how he&#39;s supposed to take his shirt of like that.</tw-passagedata><tw-passagedata pid="14" name="David" tags="" position="650,1075" size="100,100">He&#39;s become a girl, aged down to her mid-teens at most.  Her clothes and hair are unchanged and her face is androgenous, so in her baggy, oversized hoody she could easily pass as a boy.
 
