@@ -1268,7 +1268,7 @@ From here you can head up front to the [[checkout-&gt;By Checkout]], or go to th
 [(dialog: [(display:&quot;Take Bagel&quot;)], &quot;Close&quot;)]
 (set:$bagel to true)
 (set: $basket to $basket + 1)
-(if:$basket &gt; 7)[(go-to:&quot;full&quot;)
+(if:$basket &gt; 7)[(go-to:&quot;full&quot;)]
 ]]
 
 (if:$muffin is false and $basket &lt; 8)[
@@ -1276,7 +1276,7 @@ From here you can head up front to the [[checkout-&gt;By Checkout]], or go to th
 [(dialog: [(display:&quot;Take Muffin&quot;)], &quot;Close&quot;)]
 (set:$muffin to true)
 (set: $basket to $basket + 1)
-(if:$basket &gt; 7)[(go-to:&quot;full&quot;)
+(if:$basket &gt; 7)[(go-to:&quot;full&quot;)]
 ]]</tw-passagedata><tw-passagedata pid="179" name="checkout" tags="" position="4400,2450" size="100,100">You walk up to an open lane and rear up, stretching your neck and tilting your head to lift the (link-repeat:&quot;basket&quot;)[(dialog: [(display:&quot;Unload&quot;)], &quot;Close&quot;)] onto the conveyer belt.
 
 Then you drop down, walk a couple steps down to the register, and stand up again, peering over the counter at the (link-repeat:&quot;cashier&quot;)[(dialog: [(display:&quot;Cashier&quot;)], &quot;Close&quot;)].
@@ -1339,7 +1339,7 @@ From here you can head to any of the aisles.
 (set:$sausage to true)
 (set: $basket to $basket + 1)
 (if:$basket &gt; 7)[(go-to:&quot;full&quot;)]
-]]</tw-passagedata><tw-passagedata pid="181" name="FoodVars" tags="" position="4200,1375" size="100,100">(set:$bread to false)
+]]</tw-passagedata><tw-passagedata pid="181" name="FoodVars" tags="" position="4200,1375" size="100,100">{(set:$bread to false)
 
 (set:$bagel to false)
 
@@ -1371,7 +1371,7 @@ From here you can head to any of the aisles.
 
 (set:$sushi to false)
 
-(set:$pumpkin to false)</tw-passagedata><tw-passagedata pid="182" name="Take Bread" tags="" position="4375,1550" size="100,100">You tilt your head down and open your jaws to place the basket on the floor, then rear up, putting your front paws on the shelf to stand eye-level with the fresh bread.  It&#39;s wrapped in a thin plastic bag, but you can still smell it clearly.  After a few inquisitive sniffs, you open your jaws and carefully grab the loaf, lifting it off the shelf and putting it in your basket.</tw-passagedata><tw-passagedata pid="183" name="Take Bagel" tags="" position="4500,1550" size="100,100">You can smell the yeasty scent of the bagels through the plastic bag holding them.  You grip the loose end of the bag and let it dangle in your jaws, feeling vaguely like a predator after a successful hunt before lowering it into the basket.</tw-passagedata><tw-passagedata pid="184" name="Take Muffin" tags="" position="4625,1550" size="100,100">The large muffins are sold in sets of four in disposable plastic containers.  You have to spread your jaws wide to get a good grip, but soon the muffins are in your basket, with only minor dents and tooth marks in the plastic.</tw-passagedata><tw-passagedata pid="185" name="Toilet Paper" tags="" position="4500,1675" size="100,100">You don&#39;t use it yourself, but you still keep some around for when guests visit.  You grab a small set of rolls and place it in your basket.</tw-passagedata><tw-passagedata pid="186" name="Paper Towel" tags="" position="4375,1675" size="100,100">You don&#39;t use much paper towel anymore - it&#39;s too hard to tear off and use just the pieces you need.  You mostly stick to larger dishcloths and full sized towels if you need to clean up spills (which also have the perk of being large enough that you can still grab a dry spot with your mouth to drag it to the laundry)</tw-passagedata><tw-passagedata pid="187" name="Shampoo" tags="" position="4375,2175" size="100,100">You //are// running a little low.  A part of you still dislikes buying pet care items for yourself, but it really is good for your coat.  You usually need to have Allison help you to get a full clean, but in a pinch you can squeeze some on the floor of the shower and roll in it.  
+(set:$pumpkin to false)}</tw-passagedata><tw-passagedata pid="182" name="Take Bread" tags="" position="4375,1550" size="100,100">You tilt your head down and open your jaws to place the basket on the floor, then rear up, putting your front paws on the shelf to stand eye-level with the fresh bread.  It&#39;s wrapped in a thin plastic bag, but you can still smell it clearly.  After a few inquisitive sniffs, you open your jaws and carefully grab the loaf, lifting it off the shelf and putting it in your basket.</tw-passagedata><tw-passagedata pid="183" name="Take Bagel" tags="" position="4500,1550" size="100,100">You can smell the yeasty scent of the bagels through the plastic bag holding them.  You grip the loose end of the bag and let it dangle in your jaws, feeling vaguely like a predator after a successful hunt before lowering it into the basket.</tw-passagedata><tw-passagedata pid="184" name="Take Muffin" tags="" position="4625,1550" size="100,100">The large muffins are sold in sets of four in disposable plastic containers.  You have to spread your jaws wide to get a good grip, but soon the muffins are in your basket, with only minor dents and tooth marks in the plastic.</tw-passagedata><tw-passagedata pid="185" name="Toilet Paper" tags="" position="4500,1675" size="100,100">You don&#39;t use it yourself, but you still keep some around for when guests visit.  You grab a small set of rolls and place it in your basket.</tw-passagedata><tw-passagedata pid="186" name="Paper Towel" tags="" position="4375,1675" size="100,100">You don&#39;t use much paper towel anymore - it&#39;s too hard to tear off and use just the pieces you need.  You mostly stick to larger dishcloths and full sized towels if you need to clean up spills (which also have the perk of being large enough that you can still grab a dry spot with your mouth to drag it to the laundry)</tw-passagedata><tw-passagedata pid="187" name="Shampoo" tags="" position="4375,2175" size="100,100">You //are// running a little low.  A part of you still dislikes buying pet care items for yourself, but it really is good for your coat.  You usually need to have Allison help you to get a full clean, but in a pinch you can squeeze some on the floor of the shower and roll in it.  
 
 You turn your head sideways to get a grip on the bottle, then pick it up and drop it in your basket.</tw-passagedata><tw-passagedata pid="188" name="Take Cereal" tags="" position="4375,1925" size="100,100">Cereal is still a regular part of your diet.  You were self conscious about it at first, with how much it felt like being a dog eating a bowl of kibble, but it&#39;s easy, tasty, and doesn&#39;t need to be cooked, so your laziness won out over your shame until you got over it.
 
